@@ -1,5 +1,3 @@
-# Defined Engineering
-
 Independent software and engineering projects.
 
 ## Projects
