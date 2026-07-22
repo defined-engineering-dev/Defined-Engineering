@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.definedengineering.makerfit",
+      "sha256_cert_fingerprints":
+        ["25:C1:AD:EE:F9:11:3E:AD:D8:6A:99:0B:D9:45:7F:48:E1:AB:83:73:DA:23:EB:3E:EE:A7:AD:F7:C9:06:C6:1E"]
+    }
+  }
+]
